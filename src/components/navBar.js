@@ -286,7 +286,7 @@ document.getElementById('c-nav-bar').innerHTML = `
           aria-current="page"
           class="mobile-logo-1 mobile-logo w-inline-block w--current"
           ><img
-            src="https://uploads-ssl.webflow.com/61fb85453338edc395fb4415/61fb85453338edcba1fb44db_logo_svg.svg"
+            src="./src/images/logo.png"
             loading="lazy"
             alt=""
             class="image-19"
