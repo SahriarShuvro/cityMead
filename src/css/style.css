@@ -9283,3 +9283,81 @@ p {
   font-style: normal;
   font-display: swap;
 }
+
+/* Nav bar  */
+.nav_bar_main {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
+.menu-button {
+  background: #4472c4;
+  color: #fff;
+  padding: 0.7rem 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition-duration: 300ms;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menu-button:hover,
+.menu-button:active,
+.menu-button:focus {
+  color: #4472c4;
+  background-color: #fff;
+  padding: 0.7rem 2rem;
+}
+.navBar {
+  padding-top: 1rem;
+}
+.navBar .ul-1st {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+}
+.navBar ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.dropdown-menu-c li {
+  text-align: center;
+}
+.navBar .ul-1st .li-1st {
+  margin: 2px 5px;
+}
+.dropdown-menu-c {
+  height: 0;
+  overflow: hidden;
+  opacity: 0;
+  margin: 0;
+  /* From https://css.glass */
+  background: rgba(9, 9, 9, 0.19);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(7.5px);
+  -webkit-backdrop-filter: blur(7.5px);
+  color: #fff;
+  transition-duration: 300ms;
+}
+.navBar .active .dropdown-menu-c {
+  height: auto;
+  opacity: 1;
+  margin-top: 1rem;
+  padding: 0.5rem 2rem;
+}
+.dropdown-menu-c li a {
+  color: #fff;
+  transition-duration: 300ms;
+}
+.dropdown-menu-c li a:hover,
+.dropdown-menu-c li a:active,
+.dropdown-menu-c li a:focus {
+  color: #4472c4;
+}

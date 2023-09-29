@@ -47,9 +47,7 @@ body::-webkit-scrollbar {
 .w-slider-dot.w-active {
   background-color: #c5916c;
 }
-.nav_black_bg {
-  background-color: #131313;
-}
+
 .margin-top-250px {
   margin-top: 250px;
 }
