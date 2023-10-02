@@ -1,0 +1,76 @@
+.about-team-a {
+  margin-top: 8rem;
+}
+.about-team-a h2 {
+  margin-bottom: 2rem;
+}
+.about-team-a p {
+  margin-bottom: 2rem;
+}
+
+.p-h-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.p-h-content h3 {
+  font-size: 22px;
+}
+
+.p-h-right ul {
+  margin-top: 1rem;
+}
+.p-h-content {
+  margin-top: 4rem;
+}
+
+.p-h-main-section {
+  background: #f8f8f8;
+  padding: 4rem 0;
+}
+.ongoing-section {
+  padding-top: 0 !important;
+}
+.product-short {
+  margin-top: 5rem;
+}
+.p-header-s .p-title-sec {
+  margin-top: 5rem;
+  text-align: center;
+}
+.map-section {
+  padding: 5rem 0;
+}
+.map-section iframe {
+  width: 100%;
+  min-height: 520px;
+}
+.map-section .Title {
+  margin: 3rem 0;
+  text-align: center;
+}
+
+/* product-upcoming */
+
+.product-upcoming,
+.project-com {
+  margin-top: 5rem;
+}
+
+.upcoming-section .Title {
+  text-align: left;
+}
+
+/* project-com */
+.project-com {
+}
+
+@media (max-width: 767px) {
+  .image_wrapper {
+    margin: 0 15px !important;
+  }
+  .about-team-a {
+    margin-top: 4rem;
+  }
+}
