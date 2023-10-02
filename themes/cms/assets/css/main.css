@@ -73,4 +73,9 @@
   .about-team-a {
     margin-top: 4rem;
   }
+
+  .p-h-content {
+    flex-direction: column;
+}
+
 }
