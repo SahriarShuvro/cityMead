@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1176" data-name="Rectangle 1176" width="60" height="60" transform="translate(7116 -336)" fill="#003a71" opacity="0"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-7116 336)" clip-path="url(#clip-path)">
+    <g id="surface1" transform="translate(7116 -336)">
+      <path id="Path_1130" data-name="Path 1130" d="M39.333,34.667h-.667V30A.667.667,0,0,0,38,29.333H36V26a.667.667,0,0,0-.667-.667h-2V22a.667.667,0,0,0-.667-.667H28V.667a.667.667,0,0,0-1.333,0V12H25.333V.667A.667.667,0,1,0,24,.667V12H22.666V.667a.667.667,0,1,0-1.333,0v34H10.667v-34a.667.667,0,0,0-1.333,0V12H8V.667a.667.667,0,1,0-1.333,0V12H5.333V.667A.667.667,0,1,0,4,.667v34H.667A.666.666,0,0,0,0,35.333v4A.667.667,0,0,0,.667,40H39.333A.667.667,0,0,0,40,39.333v-4A.667.667,0,0,0,39.333,34.667Zm-2,0H28v-4h9.333Zm-2.667-5.333H28V26.667h6.667ZM32,22.667v2.667H28V22.667Zm-9.333-9.333h4V34.667h-4Zm-17.333,0h4V34.667h-4ZM38.667,38.667H1.333V36H38.667Zm0,0" transform="translate(10 10)" fill="#003a71"/>
+    </g>
+  </g>
+</svg>
