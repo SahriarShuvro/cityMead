@@ -1,9 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  font-family: sans-serif;
+  font-family: "Poppins", sans-serif;
 }
-
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("../fonts/SofiaPro-Bold.woff2.html") format("woff2"),
+    url("../fonts/SofiaPro-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("../fonts/SofiaPro-Medium.woff2.html") format("woff2"),
+    url("../fonts/SofiaPro-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
 body {
   margin: 0;
 }
@@ -4559,7 +4575,7 @@ p {
   color: #15233a;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: Gt super display, sans-serif;
+  font-family: "Sofia Pro";
   font-size: 50px;
   font-weight: 300;
   line-height: 1.1;
