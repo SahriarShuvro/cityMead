@@ -79,9 +79,9 @@ document.getElementById("footer-section").innerHTML = `
 
     <div class="Footer__copyright col-md-12">
       <p>
-        © 2023 Edison Real Estate. All Rights Reserved.
-        <a href="http://dcastalia.com/"
-          >Designed &amp; Developed by Dcastalia</a
+        © 2023 CITYMEAD Real Estate. All Rights Reserved.
+        <a href="http://riggtechs.com/"
+          >Developed by Rigg Technologies</a
         >
       </p>
     </div>
