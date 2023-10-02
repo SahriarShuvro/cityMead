@@ -14,7 +14,29 @@
 }
 
 /* <!-- Hero Section  --> */
+.hero-section-small-heading {
+  color: #fff;
+}
 
+.s-2-para {
+  font-size: 16px;
+}
+
+.s2-para {
+  width: 60%;
+}
+
+.MenuItems__top__single ul {
+  padding: 0 !important;
+}
+@media (max-width: 520px) {
+  .s2-para {
+    width: 100%;
+  }
+  .s-2-para {
+    font-size: 14px;
+  }
+}
 /* One  */
 body .page_transition {
   display: block;
